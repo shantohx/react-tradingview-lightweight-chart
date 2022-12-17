@@ -1,4 +1,4 @@
-## Step 1: Install npm/yarn modules
+## Step 1: Install npm modules
 
 ### `npm install`
 
